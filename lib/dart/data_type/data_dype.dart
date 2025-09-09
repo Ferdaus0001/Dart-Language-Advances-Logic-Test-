@@ -1,6 +1,5 @@
-
-
-void main(){
-  var naem = 'ferdaus';
-  print('_____________${naem}_________________');
+void main() {
+  int? age;
+  print(age);
+  age = 20;
 }
