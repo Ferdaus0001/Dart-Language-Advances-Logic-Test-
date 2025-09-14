@@ -1,13 +1,12 @@
-void main(){
-  /*
+import 'dart:math';
 
-  hi this is a dart language
+void main() {
+ double feet = 3;
 
-   */
+ double metter ;
 
-print(' *\n***\n*****\n*******');
-
-
+ metter = feet/ 3;
+ print(metter);
 
 
 }
