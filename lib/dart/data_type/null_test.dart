@@ -1,12 +1,14 @@
 import 'dart:math';
 
 void main() {
- double feet = 3;
 
- double metter ;
+ double temp = 25.3,  value = 20.5;
+ const naem =  'ferda';
 
- metter = feet/ 3;
- print(metter);
+ print(temp);
+print(value);
+
+
 
 
 }
